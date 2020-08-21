@@ -7,4 +7,4 @@ Hi, I'm Henry! I'm a Full-Stack Web Developer who is passionate about making fun
 • After work you can find me often playing tabletop games, video games, or my ukulele
 • I love working in react and using redux.
 
-Reach out to me at Henry.NelsonWEB@gmail.com or at [linkedin!] (https://www.linkedin.com/in/henry-nelson-1b25441a4/)
+Reach out to me at Henry.NelsonWEB@gmail.com or at [linkedin!](https://www.linkedin.com/in/henry-nelson-1b25441a4/)
